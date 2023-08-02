@@ -24,8 +24,7 @@ input{
     font-size: 24px;
     font-family: 'Roboto';
     color: #FFFFFF;
-    border-radius: 2px;
     outline:none;
-    border-radius:12px;
+    border-radius:2px;
 }
 `

@@ -2,7 +2,7 @@
   "name": "calculadora",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{TnLima}.github.io/{dio-calculator}", 
+  "homepage": "https://{TnLima}.github.io/{dio-calc}", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
