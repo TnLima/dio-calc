@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/%7Bdio-calc%7D/static/js/main.80c508fb.js",
+    "index.html": "/%7Bdio-calc%7D/index.html",
+    "main.80c508fb.js.map": "/%7Bdio-calc%7D/static/js/main.80c508fb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.80c508fb.js"
+  ]
+}
